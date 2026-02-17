@@ -1,0 +1,6 @@
+# Dia 1 — Estrutura do lab
+
+## O que fiz (passo a passo)
+- Criei o repositório `homelab-platform-sre` com pastas: `docs/`, `notes/`, `runbooks/`, `scripts/`.
+- Instalei/validei o `kubectl` no WSL2.
+- Ativei o bash completion do kubectl e registrei completion para o comando.
