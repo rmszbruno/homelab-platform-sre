@@ -49,5 +49,3 @@ A estrutura foi desenhada para refletir a organização de um time de plataforma
 - **Virtualização:** Proxmox VE
 - **Terminal:** WSL2 (Ubuntu)
 
----
-*Este projeto faz parte do meu roadmap para me tornar um Engenheiro de Plataforma/SRE.*
